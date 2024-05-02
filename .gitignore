@@ -1,0 +1,13 @@
+node_modules/
+
+# Build directories
+dist/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Lock files
+*.lock
